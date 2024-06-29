@@ -2,6 +2,7 @@
 *.class
 
 *.exe
+*.exe~
 
 # 打包的 jar 文件
 *.jar
